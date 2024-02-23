@@ -1,6 +1,6 @@
 # YulcomAssesment
 Hi Team, This is my assessment solution for Yulcoms
-Please kindly note the following teams to be able to run the code locally.
+Please kindly note the following items to be able to run the code locally.
 
 1) The Seeded Database is in the DataAccessLibrary class Library where the DB Migrations will be run.
  In the connection string, the path is already  pointing to the bin file in your local path
