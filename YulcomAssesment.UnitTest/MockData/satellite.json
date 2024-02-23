@@ -1,0 +1,102 @@
+[
+  {
+    "ID": 1,
+    "BranchID": 320,
+    "SatelliteName": "S10330042020050252",
+    "IPAddress": "192.168.137.1",
+    "TempToken": "BFakmne2FkQSsFqxVNt8BdnCtjvz6MFZ\/ALSlRXrKxbZ6iVTEZVLmz\/oAmXSC5rtD1O9GXp6cqc9hcD\/u6b76w==",
+    "Status": "Active",
+    "Alias": "NULL",
+    "CardPrintingAssistantId": null
+  },
+  {
+    "ID": 2,
+    "BranchID": 321,
+    "SatelliteName": "S10904052020065507",
+    "IPAddress": "172.20.10.6",
+    "TempToken": "92bFcqR0VOMVRtb4B+l6SU9\/OikgHbSeB31pzLjM1dNNAjnr1ysr9gmO4WWu20hSE8oqwa44\/a9OuN73rCKV9Q==",
+    "Status": "Active",
+    "Alias": "NULL",
+    "CardPrintingAssistantId": 100
+  },
+  {
+    "ID": 3,
+    "BranchID": 324,
+    "SatelliteName": "S22505052020084417",
+    "IPAddress": "192.168.1.39",
+    "TempToken": "tdQIy5zT0Wu6NyCYe9Y7zJA8z7V+GjT\/w\/wtjcdu1i3U0g8QPGH8P0FKu08LV55thWL8htSGW+AA07IeijE+sA==",
+    "Status": "Active",
+    "Alias": "NULL",
+    "CardPrintingAssistantId": 101
+  },
+  {
+    "ID": 4,
+    "BranchID": 10325,
+    "SatelliteName": "S44305052020111418",
+    "IPAddress": "192.168.1.11",
+    "TempToken": "jh6yWCh8Uyo+JMGem7+YM7KPaXyOFbJis1W7f4\/Sob608pZBWeSxOh\/4sEmxb6NM6Nq\/JlpvB9L6J7ohsmA88Q==",
+    "Status": "InActive",
+    "Alias": "NULL",
+    "CardPrintingAssistantId": 102
+  },
+  {
+    "ID": 5,
+    "BranchID": 1,
+    "SatelliteName": "S10025082020070402",
+    "IPAddress": "192.168.21.109",
+    "TempToken": "WZKFOGnTKv2+RLEinMXR9bKPaXyOFbJis1W7f4\/Sob5OkJz4xkZ4ByTxUWiK2Dq71L9OGCGintz31HpmSUCk2g==",
+    "Status": "Active",
+    "Alias": "NULL",
+    "CardPrintingAssistantId": 103
+  },
+  {
+    "ID": 9,
+    "BranchID": 320,
+    "SatelliteName": "S10045678909887777",
+    "IPAddress": "192.168.22.108",
+    "TempToken": "GFYT6FHNBNLP09IOJKHGHGGFG",
+    "Status": "Active",
+    "Alias": "SAT-2",
+    "CardPrintingAssistantId": 104
+  },
+  {
+    "ID": 10,
+    "BranchID": 10323,
+    "SatelliteName": "SAT-2233",
+    "IPAddress": "102.168.25.10",
+    "TempToken": "NULL",
+    "Status": "Active",
+    "Alias": "SAT-2233",
+    "CardPrintingAssistantId": 5269
+  },
+  {
+    "ID": 11,
+    "BranchID": 10323,
+    "SatelliteName": "SAT-0980",
+    "IPAddress": "192.168.25.32",
+    "TempToken": "+6Cq9JCAGXz9P5IQuScOoU9\/OikgHbSeB31pzLjM1dPl7WvCX6m3URj48X5kzS+pIFdvLqUAB78jftCE3iZBcw==",
+    "Status": "InActive",
+    "Alias": "SAT-0980",
+    "CardPrintingAssistantId": 5689
+  },
+  {
+    "ID": 12,
+    "BranchID": 321,
+    "SatelliteName": "SAT-6511",
+    "IPAddress": "192.168.26.88",
+    "TempToken": "KmTAMLmwtEJ4z7pPwQH1ZZA8z7V+GjT\/w\/wtjcdu1i0N1XJOM7coAJEsDkenKpd8xJekbJS6Z6DtGqK4PcrfwA==",
+    "Status": "Active",
+    "Alias": "SAT-6511",
+    "CardPrintingAssistantId": 98
+  },
+  {
+    "ID": 10010,
+    "BranchID": 320,
+    "SatelliteName": "SAT-0989",
+    "IPAddress": "192.168.137.80",
+    "TempToken": "Tt3++\/mT7R4oJR0gSMQR9s7978DdGt2cDEdfDmLFrWrHRy\/StGxMi4GnorP99hdYrNlSowdQ98z0qv3b7F+tWw==",
+    "Status": "Active",
+    "Alias": "SAT-0989",
+    "CardPrintingAssistantId": 348
+  }
+]

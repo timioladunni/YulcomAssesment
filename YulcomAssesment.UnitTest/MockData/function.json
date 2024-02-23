@@ -1,0 +1,326 @@
+[
+  {
+    "ID": 4,
+    "Name": "CREATE ROLE",
+    "PageLink": "\/role\/add-role",
+    "Status": "Active"
+  },
+  {
+    "ID": 5,
+    "Name": "UPDATE ROLE",
+    "PageLink": "\/role\/update-role",
+    "Status": "Active"
+  },
+  {
+    "ID": 6,
+    "Name": "VIEW ROLE",
+    "PageLink": "\/role\/view-role",
+    "Status": "Active"
+  },
+  {
+    "ID": 7,
+    "Name": "CREATE BRANCH",
+    "PageLink": "\/branch\/add-branch",
+    "Status": "Active"
+  },
+  {
+    "ID": 8,
+    "Name": "UPDATE BRANCH",
+    "PageLink": "\/branch\/update-branch",
+    "Status": "Active"
+  },
+  {
+    "ID": 9,
+    "Name": "VIEW BRANCH",
+    "PageLink": "\/branch\/view-branch",
+    "Status": "Active"
+  },
+  {
+    "ID": 10,
+    "Name": "CREATE USER",
+    "PageLink": "\/user\/add-user",
+    "Status": "Active"
+  },
+  {
+    "ID": 11,
+    "Name": "UPDATE USER",
+    "PageLink": "\/user\/update-user",
+    "Status": "Active"
+  },
+  {
+    "ID": 12,
+    "Name": "VIEW USER",
+    "PageLink": "\/user\/view-user",
+    "Status": "Active"
+  },
+  {
+    "ID": 13,
+    "Name": "CREATE SATELLITE",
+    "PageLink": "\/satellite\/add-satellite",
+    "Status": "Active"
+  },
+  {
+    "ID": 14,
+    "Name": "UPDATE SATELLITE",
+    "PageLink": "\/satellite\/update-satellite",
+    "Status": "Active"
+  },
+  {
+    "ID": 15,
+    "Name": "VIEW SATELLITE",
+    "PageLink": "\/satellite\/view-satellite",
+    "Status": "Active"
+  },
+  {
+    "ID": 21,
+    "Name": "CREATE CARD PROFILE",
+    "PageLink": "\/card-profile\/add-card-profile",
+    "Status": "Active"
+  },
+  {
+    "ID": 25,
+    "Name": "UPDATE CARD PROFILE",
+    "PageLink": "\/card-profile\/update-card-profile",
+    "Status": "Active"
+  },
+  {
+    "ID": 26,
+    "Name": "VIEW CARD PROFILE",
+    "PageLink": "\/card-profile\/view-card-profile",
+    "Status": "Active"
+  },
+  {
+    "ID": 34,
+    "Name": "SINGLE INSTANT CARD REQUEST",
+    "PageLink": "\/card-request\/request-form",
+    "Status": "Active"
+  },
+  {
+    "ID": 35,
+    "Name": "FRONT DESK - SINGLE CARD ISSUANCE",
+    "PageLink": "\/card-request\/front-desk",
+    "Status": "Active"
+  },
+  {
+    "ID": 42,
+    "Name": "REQUEST BLANK CARDS",
+    "PageLink": "\/visa-card\/request",
+    "Status": "Active"
+  },
+  {
+    "ID": 43,
+    "Name": "APPROVE BLANK CARDS REQUEST",
+    "PageLink": "\/visa-card\/approve",
+    "Status": "Active"
+  },
+  {
+    "ID": 44,
+    "Name": "AUTHORISE BLANK CARDS REQUEST",
+    "PageLink": "\/visa-card\/authorise",
+    "Status": "Active"
+  },
+  {
+    "ID": 45,
+    "Name": "ACKNOWLEDGE BLANK CARDS",
+    "PageLink": "\/visa-card\/acknowledge",
+    "Status": "Active"
+  },
+  {
+    "ID": 46,
+    "Name": "VIEW BLANK CARDS",
+    "PageLink": "\/visa-card\/view",
+    "Status": "Active"
+  },
+  {
+    "ID": 51,
+    "Name": "APPROVE REQUEST",
+    "PageLink": "\/approval\/approve-request",
+    "Status": "Active"
+  },
+  {
+    "ID": 52,
+    "Name": "VIEW TRANSACTIONS",
+    "PageLink": "\/transaction\/view-transaction",
+    "Status": "Active"
+  },
+  {
+    "ID": 53,
+    "Name": "VIEW AUDIT TRAIL",
+    "PageLink": "\/audit-trail\/view-audit-trail",
+    "Status": "Active"
+  },
+  {
+    "ID": 54,
+    "Name": "MANAGE SUSPENSE ACCOUNT",
+    "PageLink": "\/suspense-account\/update-suspense-account",
+    "Status": "Active"
+  },
+  {
+    "ID": 55,
+    "Name": "MANAGE APPROVAL CONFIGURATION",
+    "PageLink": "\/approval-configuration\/set-configuration",
+    "Status": "Active"
+  },
+  {
+    "ID": 79,
+    "Name": "APPROVE INSTANT CARD REQUEST",
+    "PageLink": "\/card-request\/approve-card-request",
+    "Status": "Active"
+  },
+  {
+    "ID": 83,
+    "Name": "DISPATCH BLANK CARDS",
+    "PageLink": "\/visa-card\/xml-generation",
+    "Status": "Active"
+  },
+  {
+    "ID": 84,
+    "Name": "HOTLIST CARD",
+    "PageLink": "\/card-request\/hotlist-card",
+    "Status": "Active"
+  },
+  {
+    "ID": 86,
+    "Name": "VIEW HOTLIST REPORT",
+    "PageLink": "\/card-request\/hotlist-report",
+    "Status": "Active"
+  },
+  {
+    "ID": 87,
+    "Name": "APPROVE CARD HOTLIST",
+    "PageLink": "\/card-request\/approve-card-hotlist",
+    "Status": "Active"
+  },
+  {
+    "ID": 88,
+    "Name": "SECONDARY ACCOUNT LINKING",
+    "PageLink": "\/card-request\/secondary-linking",
+    "Status": "Active"
+  },
+  {
+    "ID": 90,
+    "Name": "APPROVE SECONDARY ACCOUNT LINKING",
+    "PageLink": "\/card-request\/approve-secondary-linking",
+    "Status": "Active"
+  },
+  {
+    "ID": 91,
+    "Name": "VIEW CARD REQUEST REPORT",
+    "PageLink": "\/card-request\/card-request-report",
+    "Status": "Active"
+  },
+  {
+    "ID": 92,
+    "Name": "CREATE TITLE",
+    "PageLink": "\/title\/add-title",
+    "Status": "Active"
+  },
+  {
+    "ID": 93,
+    "Name": "UPDATE TITLE",
+    "PageLink": "\/title\/update-title",
+    "Status": "Active"
+  },
+  {
+    "ID": 94,
+    "Name": "VIEW TITLE",
+    "PageLink": "\/title\/view-title",
+    "Status": "Active"
+  },
+  {
+    "ID": 95,
+    "Name": "UN-LINK SECONDARY ACCOUNT",
+    "PageLink": "\/card-request\/secondary-unlinking",
+    "Status": "Active"
+  },
+  {
+    "ID": 96,
+    "Name": "UN-LINK SECONDARY ACCOUNT APPROVAL",
+    "PageLink": "\/card-request\/approve-secondary-unlinking",
+    "Status": "Active"
+  },
+  {
+    "ID": 97,
+    "Name": "SECONDARY ACCOUNT LINKING REPORT",
+    "PageLink": "\/card-request\/secondary-linking-report",
+    "Status": "Active"
+  },
+  {
+    "ID": 98,
+    "Name": "UN-LINK SECONDARY ACCOUNT REPORT",
+    "PageLink": "\/card-request\/secondary-unlinking-report",
+    "Status": "Active"
+  },
+  {
+    "ID": 99,
+    "Name": "MANAGE OMS CONFIG",
+    "PageLink": "\/oms-config\/manage",
+    "Status": "Active"
+  },
+  {
+    "ID": 101,
+    "Name": "VALIDATE CARD REQUEST [PRE COVID-19]",
+    "PageLink": "\/card-request\/old-front-desk",
+    "Status": "Active"
+  },
+  {
+    "ID": 103,
+    "Name": "APPROVE OLD CARD REQUEST [PRE COVID-19]",
+    "PageLink": "\/card-request\/old-approve-card-request",
+    "Status": "Active"
+  },
+  {
+    "ID": 104,
+    "Name": "MOBILE REQUEST",
+    "PageLink": "\/mobile",
+    "Status": "Active"
+  },
+  {
+    "ID": 105,
+    "Name": "LOG MOBILE SECONDARY LINKING REQUEST",
+    "PageLink": "\/card-request\/mobile-secondary-request",
+    "Status": "Active"
+  },
+  {
+    "ID": 106,
+    "Name": "CLEAR PRINTED CARDS",
+    "PageLink": "\/card-request\/clear-printed-card",
+    "Status": "Active"
+  },
+  {
+    "ID": 107,
+    "Name": "VIEW CARD REQUEST SUMMARY REPORT",
+    "PageLink": "\/card-request\/card-request-summary-report",
+    "Status": "Active"
+  },
+  {
+    "ID": 108,
+    "Name": "DOWNLOAD REPORT",
+    "PageLink": "\/report\/download-report",
+    "Status": "Active"
+  },
+  {
+    "ID": 109,
+    "Name": "VIEW STOCK LEVEL",
+    "PageLink": "\/visa-card\/view-stock-level",
+    "Status": "Active"
+  },
+  {
+    "ID": 110,
+    "Name": "FIND MISSING CARD REQUEST",
+    "PageLink": "\/card-request\/find-card-request",
+    "Status": "Active"
+  },
+  {
+    "ID": 111,
+    "Name": "MONITOR AUDITED REQUEST",
+    "PageLink": "\/monitor\/monitor-request",
+    "Status": "Active"
+  },
+  {
+    "ID": 112,
+    "Name": "KIOSK PRODUCTION",
+    "PageLink": "\/kiosk-production",
+    "Status": "Active"
+  }
+]

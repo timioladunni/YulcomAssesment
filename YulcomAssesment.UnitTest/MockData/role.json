@@ -1,0 +1,27 @@
+[
+  {
+    "ID": 1,
+    "Name": "SYSTEM ADMIN",
+    "Status": "Active"
+  },
+  {
+    "ID": 2,
+    "Name": "CSO",
+    "Status": "Active"
+  },
+  {
+    "ID": 6,
+    "Name": "BRANCH APPROVER",
+    "Status": "Active"
+  },
+  {
+    "ID": 19,
+    "Name": "IT SUPPORT",
+    "Status": "InActive"
+  },
+  {
+    "ID": 20,
+    "Name": "CARD SERVICES",
+    "Status": "Active"
+  }
+]

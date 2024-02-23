@@ -1,0 +1,50 @@
+﻿[
+  {
+    "ID": 1015013,
+    "SatelliteID": 5,
+    "CardProfileID": 20,
+    "RequestingBranchID": 320,
+    "NumberRequested": 1,
+    "NumberApproved": 1,
+    "RequestedBy": "sysadmin",
+    "DateRequested": "2021-09-17T22:19:00.023",
+    "IssuanceType": "Primary",
+    "IssuanceStatus": "PROD_APPROVED"
+  },
+  {
+    "ID": 1015009,
+    "SatelliteID": 5,
+    "CardProfileID": 20,
+    "RequestingBranchID": 320,
+    "NumberRequested": 1,
+    "NumberApproved": 1,
+    "RequestedBy": "sysadmin",
+    "DateRequested": "2021-09-17T22:28:00.027",
+    "IssuanceType": "Primary",
+    "IssuanceStatus": "PROD_APPROVED"
+  },
+  {
+    "ID": 1015010,
+    "SatelliteID": 5,
+    "CardProfileID": 20,
+    "RequestingBranchID": 1,
+    "NumberRequested": 1,
+    "NumberApproved": 1,
+    "RequestedBy": "sysadmin",
+    "DateRequested": "2021-09-18T12:26:00.03",
+    "IssuanceType": "Primary",
+    "IssuanceStatus": "PROD_APPROVED"
+  },
+  {
+    "ID": 1015011,
+    "SatelliteID": 5,
+    "CardProfileID": 20,
+    "RequestingBranchID": 320,
+    "NumberRequested": 1,
+    "NumberApproved": 1,
+    "RequestedBy": "sysadmin",
+    "DateRequested": "2021-09-18T12:29:00.057",
+    "IssuanceType": "Primary",
+    "IssuanceStatus": "READY_FOR_PROD"
+  }
+]

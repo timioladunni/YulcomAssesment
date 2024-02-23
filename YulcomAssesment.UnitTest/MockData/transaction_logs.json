@@ -1,0 +1,422 @@
+[
+  {
+    "Id": 42001,
+    "TransactionId": 1067947,
+    "IssuanceRequestItemId": 1067163,
+    "SettlementStatus": "Successful",
+    "Date": "14\/08\/2023"
+  },
+  {
+    "Id": 41998,
+    "TransactionId": 1067946,
+    "IssuanceRequestItemId": 1067162,
+    "SettlementStatus": "Successful",
+    "Date": "08\/07\/2023"
+  },
+  {
+    "Id": 41997,
+    "TransactionId": 1067945,
+    "IssuanceRequestItemId": 1067161,
+    "SettlementStatus": "Successful",
+    "Date": "08\/07\/2023"
+  },
+  {
+    "Id": 31997,
+    "TransactionId": 1057941,
+    "IssuanceRequestItemId": 1057161,
+    "SettlementStatus": "Successful",
+    "Date": "19\/04\/2023"
+  },
+  {
+    "Id": 31996,
+    "TransactionId": 1057940,
+    "IssuanceRequestItemId": 1057160,
+    "SettlementStatus": "Successful",
+    "Date": "19\/04\/2023"
+  },
+  {
+    "Id": 31995,
+    "TransactionId": 1057937,
+    "IssuanceRequestItemId": 1057156,
+    "SettlementStatus": "Successful",
+    "Date": "24\/08\/2022"
+  },
+  {
+    "Id": 31994,
+    "TransactionId": 1057936,
+    "IssuanceRequestItemId": 1057155,
+    "SettlementStatus": "Successful",
+    "Date": "24\/08\/2022"
+  },
+  {
+    "Id": 31993,
+    "TransactionId": 1057934,
+    "IssuanceRequestItemId": 1057154,
+    "SettlementStatus": "Successful",
+    "Date": "24\/08\/2022"
+  },
+  {
+    "Id": 31992,
+    "TransactionId": 1057933,
+    "IssuanceRequestItemId": 1057153,
+    "SettlementStatus": "Successful",
+    "Date": "24\/08\/2022"
+  },
+  {
+    "Id": 31991,
+    "TransactionId": 1057932,
+    "IssuanceRequestItemId": 1057152,
+    "SettlementStatus": "Successful",
+    "Date": "24\/08\/2022"
+  },
+  {
+    "Id": 31990,
+    "TransactionId": 1057929,
+    "IssuanceRequestItemId": 1057151,
+    "SettlementStatus": "Successful",
+    "Date": "20\/08\/2022"
+  },
+  {
+    "Id": 31989,
+    "TransactionId": 1057928,
+    "IssuanceRequestItemId": 1057150,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31988,
+    "TransactionId": 1057926,
+    "IssuanceRequestItemId": 1057149,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31987,
+    "TransactionId": 1057925,
+    "IssuanceRequestItemId": 1057148,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31986,
+    "TransactionId": 1057924,
+    "IssuanceRequestItemId": 1057146,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31985,
+    "TransactionId": 1057923,
+    "IssuanceRequestItemId": 1057145,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31984,
+    "TransactionId": 1057922,
+    "IssuanceRequestItemId": 1057144,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31983,
+    "TransactionId": 1057921,
+    "IssuanceRequestItemId": 1057143,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31982,
+    "TransactionId": 1057920,
+    "IssuanceRequestItemId": 1057142,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31981,
+    "TransactionId": 1057919,
+    "IssuanceRequestItemId": 1057141,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31980,
+    "TransactionId": 1057918,
+    "IssuanceRequestItemId": 1057140,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31979,
+    "TransactionId": 1057917,
+    "IssuanceRequestItemId": 1057139,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31978,
+    "TransactionId": 1057916,
+    "IssuanceRequestItemId": 1057138,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31977,
+    "TransactionId": 1057915,
+    "IssuanceRequestItemId": 1057137,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31976,
+    "TransactionId": 1057914,
+    "IssuanceRequestItemId": 1057136,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31975,
+    "TransactionId": 1057913,
+    "IssuanceRequestItemId": 1057135,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31974,
+    "TransactionId": 1057912,
+    "IssuanceRequestItemId": 1057134,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31973,
+    "TransactionId": 1057911,
+    "IssuanceRequestItemId": 1057133,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31972,
+    "TransactionId": 1057910,
+    "IssuanceRequestItemId": 1057132,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31971,
+    "TransactionId": 1057909,
+    "IssuanceRequestItemId": 1057131,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31970,
+    "TransactionId": 1057908,
+    "IssuanceRequestItemId": 1057130,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31969,
+    "TransactionId": 1057906,
+    "IssuanceRequestItemId": 1057129,
+    "SettlementStatus": "Successful",
+    "Date": "19\/08\/2022"
+  },
+  {
+    "Id": 31968,
+    "TransactionId": 1057905,
+    "IssuanceRequestItemId": 1057128,
+    "SettlementStatus": "Successful",
+    "Date": "18\/08\/2022"
+  },
+  {
+    "Id": 31967,
+    "TransactionId": 1057904,
+    "IssuanceRequestItemId": 1057127,
+    "SettlementStatus": "Successful",
+    "Date": "18\/08\/2022"
+  },
+  {
+    "Id": 31966,
+    "TransactionId": 1057903,
+    "IssuanceRequestItemId": 1057126,
+    "SettlementStatus": "Successful",
+    "Date": "18\/08\/2022"
+  },
+  {
+    "Id": 31965,
+    "TransactionId": 1057902,
+    "IssuanceRequestItemId": 1057125,
+    "SettlementStatus": "Successful",
+    "Date": "18\/08\/2022"
+  },
+  {
+    "Id": 31964,
+    "TransactionId": 1057901,
+    "IssuanceRequestItemId": 1057123,
+    "SettlementStatus": "Successful",
+    "Date": "18\/08\/2022"
+  },
+  {
+    "Id": 31963,
+    "TransactionId": 1057898,
+    "IssuanceRequestItemId": 1057122,
+    "SettlementStatus": "Successful",
+    "Date": "18\/08\/2022"
+  },
+  {
+    "Id": 31962,
+    "TransactionId": 1057894,
+    "IssuanceRequestItemId": 1057120,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31961,
+    "TransactionId": 1057893,
+    "IssuanceRequestItemId": 1057119,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31960,
+    "TransactionId": 1057892,
+    "IssuanceRequestItemId": 1057118,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31959,
+    "TransactionId": 1057891,
+    "IssuanceRequestItemId": 1057117,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31958,
+    "TransactionId": 1057890,
+    "IssuanceRequestItemId": 1057115,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31957,
+    "TransactionId": 1057889,
+    "IssuanceRequestItemId": 1057114,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31956,
+    "TransactionId": 1057887,
+    "IssuanceRequestItemId": 1057113,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31955,
+    "TransactionId": 1057886,
+    "IssuanceRequestItemId": 1057112,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31954,
+    "TransactionId": 1057885,
+    "IssuanceRequestItemId": 1057111,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31953,
+    "TransactionId": 1057884,
+    "IssuanceRequestItemId": 1057110,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31952,
+    "TransactionId": 1057883,
+    "IssuanceRequestItemId": 1057109,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31951,
+    "TransactionId": 1057882,
+    "IssuanceRequestItemId": 1057108,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31950,
+    "TransactionId": 1057881,
+    "IssuanceRequestItemId": 1057107,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31949,
+    "TransactionId": 1057880,
+    "IssuanceRequestItemId": 1057106,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31948,
+    "TransactionId": 1057876,
+    "IssuanceRequestItemId": 1057104,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31947,
+    "TransactionId": 1057875,
+    "IssuanceRequestItemId": 1057103,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31946,
+    "TransactionId": 1057874,
+    "IssuanceRequestItemId": 1057102,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31945,
+    "TransactionId": 1057873,
+    "IssuanceRequestItemId": 1057101,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31944,
+    "TransactionId": 1057872,
+    "IssuanceRequestItemId": 1057100,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31943,
+    "TransactionId": 1057871,
+    "IssuanceRequestItemId": 1057099,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31942,
+    "TransactionId": 1057870,
+    "IssuanceRequestItemId": 1057098,
+    "SettlementStatus": "Waived",
+    "Date": "17\/08\/2022"
+  },
+  {
+    "Id": 31941,
+    "TransactionId": 1057868,
+    "IssuanceRequestItemId": 1057097,
+    "SettlementStatus": "Successful",
+    "Date": "17\/08\/2022"
+  }
+]
