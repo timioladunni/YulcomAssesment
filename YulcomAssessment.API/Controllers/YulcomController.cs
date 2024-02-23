@@ -24,6 +24,11 @@ namespace YulcomAssesment.API.Controllers
             this.logger = logger;
         }
 
+        /// <summary>
+        /// Endpoint To Create a New Record
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPost("create")]
         public async Task<ActionResult> CreateAsync([FromBody] YulcomModel model)
         {
@@ -54,6 +59,12 @@ namespace YulcomAssesment.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Endpoint To Update Exsiting Record
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPut("update/{id}")]
         public async Task<IActionResult> UpdateAsync(int id, [FromBody] YulcomModel model)
         {
@@ -84,6 +95,12 @@ namespace YulcomAssesment.API.Controllers
             }
         }
 
+
+        /// <summary>
+        /// Endpoint To Delete Exsiting Record
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpDelete("delete/{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
@@ -105,6 +122,11 @@ namespace YulcomAssesment.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Endpoint To Get Exsiting Record By Id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet("getbyid/{id}")]
         public async Task<IActionResult> GetByIdAsync(int id)
         {
@@ -126,6 +148,12 @@ namespace YulcomAssesment.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Paginated Endpoint To get All Records
+        /// </summary>
+        /// <param name="pageNumber"></param>
+        /// <param name="pageSize"></param>
+        /// <returns></returns>
         [HttpGet("getall")]
         public async Task<IActionResult> GetAllAsync([FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10)
         {
